@@ -1,6 +1,6 @@
 # ZESport - Tin tức Giải đấu ESports
 
- - PandaScoreAPI
+ - PandaScoreAPI
  - Flutter
  - CupetinoIcon
  - HTTP
@@ -26,7 +26,3 @@ Link : https://www.figma.com/file/NfBat01gKDMi2mGrX3bn7T/ZESports?node-id=0%3A1 
 
 ## 
 
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
