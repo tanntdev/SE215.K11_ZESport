@@ -1,12 +1,32 @@
+# ZESport - Tin tức Giải đấu ESports
 
-# esports
+ - PandaScoreAPI
+ - Flutter
+ - CupetinoIcon
+ - HTTP
+# Thông tin
 
-A **Flutter** project that uses the **PandaScore API** to show current and today eSport matches and tournaments.
+SE346.K11 - MSSV : 12520376 - Nguyễn Thanh Tân
 
-This project uses the **Provider** dependency injection / state management package.
+## Cài đặt.
 
-![Screenshot](screenshots/1.png "Screenshot")
+ 1. Clone >>>>> [ZESport     Project](https://github.com/tanntdev/SE346.K11_ZESport) 
+ 2. Open in VSCode > run `flutter pub get`
+ 3. Open [https://pandascore.co/settings](https://pandascore.co/settings) to    register and get API key.    
+ 4. Put API key to `assets/apikey.txt`
+ 5. Run Emulator( IOS hoặc Android) 
+ 6. Debug
 
-## Getting Started
+## Figma sketch
+Link : https://www.figma.com/file/NfBat01gKDMi2mGrX3bn7T/ZESports?node-id=0%3A1 ![\[](https://i.imgur.com/tmzxpHp.png)
 
-You only need to create an assets folder with a file named "apikey.txt" containing your PandaScore API key.
+## Screenshot
+![](https://i.imgur.com/nM42mvX.png)![enter image description here](https://i.imgur.com/cUCajNJ.png)
+
+
+## 
+
+
+## Export a file
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
