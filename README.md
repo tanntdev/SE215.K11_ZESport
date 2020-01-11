@@ -6,7 +6,7 @@
  - HTTP
 # Thông tin
 
-SE346.K11 - MSSV : 12520376 - Nguyễn Thanh Tân
+SE215.K11 - MSSV : 12520376 - Nguyễn Thanh Tân
 
 ## Cài đặt.
 
